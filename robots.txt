@@ -17,5 +17,5 @@ Disallow: /*.php
 Disallow: /*?replytocom
 Disallow: /*?turl
 
-Host: mvisionclinic.com
-Sitemap: http://mvisionclinic.com/sitemap_index.xml
+Host: g-vision.tech
+Sitemap: http://g-vision.tech/sitemap_index.xml

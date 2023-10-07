@@ -1,6 +1,6 @@
 /*
-Theme Name: Mvision
-Text Domain: mvision
+Theme Name: G-Vision
+Text Domain: G-Vision
 Author: RedStone
 Author Uri: http://redstone.media/
 Version: 1.0
@@ -426,7 +426,7 @@ input:-webkit-autofill {
   left: 0;
   height: 16px;
   width: 16px;
-  background: url(/wp-content/themes/mvision/img/icon-8.png) center center no-repeat;
+  background: url(/wp-content/themes/G-Vision/img/icon-8.png) center center no-repeat;
 }
 
 .sc > input:checked+span:after {
