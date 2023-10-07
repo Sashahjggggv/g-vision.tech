@@ -6,7 +6,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 
-    <link rel="shortcut icon" href="https://G-Visionclinic.com/wp-content/themes/G-Vision/img/favicon.ico" />
+    <link rel="shortcut icon" href="https://G-Visionclinic.com/wp-content/themes/mvision/img/favicon.ico" />
     <style>#loader-wrapper{position:fixed;left:0;top:-100px;right:0;bottom:-100px;background:#fff;z-index:100}body:not(.mobile)::-webkit-scrollbar{width:8px}body:not(.mobile)::-webkit-scrollbar-track{background:rgba(192,192,192,.7);width:3px}body:not(.mobile)::-webkit-scrollbar-thumb{background:#f26522;width:3px}</style>
     <title>Виступ Назарія Михайлюка для Асоціації Стоматологів Ісландії - G-Vision</title>
 
@@ -108,7 +108,7 @@ img.emoji {
     <div id="content-block">
                 <header >
             <div class="headerContent">
-                <a id="logo" href="https://G-Visionclinic.com/"><img src="https://G-Visionclinic.com/wp-content/themes/G-Vision/img/logo-white.svg" alt="G.Vision Clinic Logo"><img src="https://G-Visionclinic.com/wp-content/themes/G-Vision/img/logo-black.svg" alt="G.Vision Clinic Logo"></a><nav><ul id="menu-header-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://G-Visionclinic.com/whitening-hygiene-2/">Професійний догляд</a></li>
+                <a id="logo" href="https://G-Visionclinic.com/"><img src="https://G-Visionclinic.com/wp-content/themes/mvision/img/logo-white.svg" alt="G.Vision Clinic Logo"><img src="https://G-Visionclinic.com/wp-content/themes/mvision/img/logo-black.svg" alt="G.Vision Clinic Logo"></a><nav><ul id="menu-header-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://G-Visionclinic.com/whitening-hygiene-2/">Професійний догляд</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://G-Visionclinic.com/ceramic-veneers/">Керамічні вініри</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="https://G-Visionclinic.com/reincarnation-of-a-smile/">Перевтілення посмішки</a></li>
 </ul></nav>                <div class="headerRightSide">
@@ -116,8 +116,8 @@ img.emoji {
                             <div class="closeLayer"></div>
                             <div class="triangleShadow"></div>
                             <div class="imgWrapper">
-                                <img src="https://G-Visionclinic.com/wp-content/themes/G-Vision/fonts/svg/smartphone.svg" alt="">
-                                <img src="https://G-Visionclinic.com/wp-content/themes/G-Vision/fonts/svg/smartphone-black.svg" alt="">
+                                <img src="https://G-Visionclinic.com/wp-content/themes/mvision/fonts/svg/smartphone.svg" alt="">
+                                <img src="https://G-Visionclinic.com/wp-content/themes/mvision/fonts/svg/smartphone-black.svg" alt="">
                             </div>
                             <div class="headerContactInfo">
                                 <div class="button style3"><a href="/contacts/" class="btn">Записатись зараз</a><i></i></div><div class="emptySpace25"></div><span>Тел.:</span><a class="contactLink" href="tel:380660588795380950410510">+38 (066) 05 88 795,  +38 (095) 04 10 510</a><div class="emptySpace20"></div><span>Факс:</span><a class="contactLink" href="fax:380342501124">+38 (0342) 50 11 24</a><div class="emptySpace20"></div><span>Email:</span><a class="contactLink" href="mailto:G-Visionclinic@gmail.com">G-Visionclinic@gmail.com</a><div class="emptySpace30"></div><div class="button"><a href="/contacts/" class="btn">Наші контакти</a></div>                            </div>
