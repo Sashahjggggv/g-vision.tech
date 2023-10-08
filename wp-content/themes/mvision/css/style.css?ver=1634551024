@@ -9672,6 +9672,7 @@ footer .socialWrapper {
 }
 
 footer {
+  margin-bottom: 15px;
   position: relative;
   text-align: center;
   z-index: 14;
@@ -9735,25 +9736,25 @@ footer {
   margin-bottom: 15px
 }
 
-.redstone a {
+.ALEX a {
   display: block;
   margin: 0 auto
 }
 
-.redstone a img,
-.redstone a p {
+.ALEX a img,
+.ALEX a p {
   display: inline-block;
   vertical-align: middle
 }
 
-.redstone a p {
+.ALEX a p {
   margin-right: 8px;
   -webkit-transition: color 250ms linear;
   -o-transition: color 250ms linear;
   transition: color 250ms linear
 }
 
-.redstone a img {
+.ALEX a img {
   max-width: 70px;
   height: auto;
   margin-left: 3px;
@@ -9764,7 +9765,7 @@ footer {
     color: #f26522
   }
 
-  body:not(.mobile) .redstone a:hover {
+  body:not(.mobile) .ALEX a:hover {
     color: #be0000
   }
 
@@ -11532,14 +11533,14 @@ body.mobile .pageNavigation {
   opacity: 0 !important;
 }
 
-.redstone a.web_dev{
+.ALEX a.web_dev{
   display: inline-block;
 }
 a.web_dev{
   position: relative;
 }
 a.web_dev:before{
-    background: #fff url(../img/redstone-icon-black.svg);
+    background: #fff url(../img/ALEX-logo.svg);
     background-repeat: no-repeat;
     width: 71px;
     background-position: right center;
